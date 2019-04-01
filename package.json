@@ -1,0 +1,16 @@
+{
+  "name": "turtle-mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --use_strict ./src/index.js",
+    "test": "mocha"
+  },
+  "author": "Bruno Mayer <bs.mayer@hotmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}

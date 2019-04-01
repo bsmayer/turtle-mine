@@ -1,0 +1,9 @@
+{
+	"field": { "x": 10, "y": 10 },
+	"mines": [
+		{ "x": 3, "y": 4 },
+		{ "x": 8, "y": 8 }
+	],
+	"exitPoint": { "x": 5, "y": 5 },
+	"turtleStartPosition": { "x": 1, "y": 10, "direction": "North" }
+}
